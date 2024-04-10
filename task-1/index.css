@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100dvh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    color: white;
+    font-size: 25px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main::after {
+    content: '';
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    background-color: white;
+    mix-blend-mode: difference;
+    animation-name: animate;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animate {
+    0% {
+        left: 0;
+    }
+    50% {
+        left: calc(100% - 50px);
+    }
+    100% {
+        left: 0;
+    }
+}

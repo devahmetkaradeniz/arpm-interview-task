@@ -1,0 +1,44 @@
+Github Link => https://github.com/devahmetkaradeniz
+Npm Link => https://www.npmjs.com/~ceskan
+
+--Projects-- 
+
+1.Akilliphone 
+
+Website Url => https://www.akilliphone.com
+
+-Improvements have been made in the management of more than 15 thousand different products in the e-commerce sector, as well as in the management of products in marketplaces (n11, Hepsiburada, Trendyol, Amazon).
+
+2.Pratikentegre
+
+Website Url => https://pratikentegre.com
+
+-We developed a Saas product that integrates with marketplaces in the field of e-commerce, manages its products, manages its stock, and manages its own structure. I also served as the project leader there.
+
+3.Focustercume
+
+Website Url => https://focustercume.com
+
+-It is a product that combines people who need translation with people who are experts in their field, can technically detect a fixed number or the number of characters from documents such as pdf, word, and accordingly makes different calculations in the admin panel according to information that requires a certain field and expertise, and can manage all the needs from the website. I also worked as a project lead here.
+
+4.Averesttraining
+
+Website Url => https://averesttraining.com
+
+-Averest Training, an integrated system project that provides training to internationally competent certification providers, manages them and sells them thanks to the web product, has been completed under my leadership with the end-to-end team.
+
+5.biletfly
+
+Website Url => https://biletfly.com
+
+- The product, which is sold on domestic and international flights and includes other modules, was completed during my team leadership process, but I do not know why it has been taken down now.
+
+6.Passgage
+
+Website Url => https://passgage.com
+
+-It is a super human resources application. I continued to lead the front-end team here. It took 11 months to develop the website and portal side.
+
+
+--Footnote--
+I shared the projects that came to my mind in the first place, then I can share them in more detail and comprehensively.
